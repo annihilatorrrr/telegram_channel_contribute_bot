@@ -1,8 +1,8 @@
-# telegram_channel_subscription_v3_bot
+# telegram_contribute_bot
 
-Channel Subscription for channels and groups. 
+Allow non-admin to submit channel post.
 
-You are also welcome to use my [@channel_subscription_v3_bot](https://t.me/channel_subscription_v3_bot) without create your own bot.
+You are also welcome to use my [@contribute_bot](https://t.me/contribute_bot) without create your own bot.
 
 ## how to install
 
@@ -14,15 +14,10 @@ The bot will automatically be running at the end of setup.
 
 ## bot description
 
-Channel Subscription for channels and groups. Bot needs to be in the subscribed channel.
+Allow non-admin to submit channel post.
 
-Commands:
-s3_l - list subscriptions
-s3_un - `s3_un index`: unsubscribe index
-s3_s - `s3_s channel_link`: subscribe channel
-
-Github: https://github.com/gaoyunzhi/telegram_channel_subscription_v3
+Github: https://github.com/gaoyunzhi/telegram_channel_contribute_bot
 
 ## bot about 
 
-Channel Subscription for channels and groups. Bot needs to be in the subscribed channel.
+Allow non-admin to submit channel post.
